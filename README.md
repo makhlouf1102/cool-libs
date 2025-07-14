@@ -8,3 +8,6 @@
 
 [![Howler.js](https://howlerjs.com/assets/images/favicon.ico)](https://howlerjs.com/)
 
+### [Motion One – Animation Library for the Web](https://motion.dev/)
+
+[![Motion One](https://framerusercontent.com/images/3aQX5dnH5Yqgsn98QXKF2ZXxIE.png)](https://motion.dev/)
