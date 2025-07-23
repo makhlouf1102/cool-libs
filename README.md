@@ -11,3 +11,7 @@
 ### [Motion One – Animation Library for the Web](https://motion.dev/)
 
 [![Motion One](https://framerusercontent.com/images/3aQX5dnH5Yqgsn98QXKF2ZXxIE.png)](https://motion.dev/)
+
+### [dotLottie – Web animation file format](https://dotlottie.io/intro/#why-dotlottie)
+
+[![dotLottie](https://dotlottie.io/favicon.ico)](https://dotlottie.io/intro/#why-dotlottie)
